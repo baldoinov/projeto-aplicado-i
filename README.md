@@ -65,3 +65,4 @@ $ pip install -r requirements.txt
 ## Bibliografia
 
 > [Lista de bibliotecas de visualização de dados úteis.](https://aeturrell.github.io/coding-for-economists/vis-intro.html)
+> TODO: Adicionar links das tabelas usadas para montar o trabalho.

@@ -55,6 +55,4 @@ def criar_base_sot():
         ]
     ]
 
-    print(df.shape)
-
     return df
