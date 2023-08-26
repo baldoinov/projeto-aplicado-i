@@ -1,6 +1,10 @@
 # Projeto Aplicado I - Mackenzie - 2023.02
 
-Este repositório contém o trabalho de análise exploratória de dados desenvolvido no âmbito da disciplina Projeto Aplicado I, do curso de Ciência de Dados da Universidade Presbiteriana Mackenzie. O trabalho possui como tema o Objetivo de Desenvolvimento Sustentável (ODS) número 12: Produção e Consumo Responsáveis, tendo como objetivo examinar padrões e tendências relacionadas às práticas de produção e consumo agrícolas no Brasil, contribuindo para a compreensão de padrões produtivos e a promoção de comportamentos mais responsáveis em relação aos recursos naturais e ao meio ambiente.
+Este repositório contém o trabalho de análise exploratória de dados desenvolvido no âmbito da disciplina Projeto Aplicado I, do curso de Ciência de Dados da Universidade Presbiteriana Mackenzie. 
+
+O objetivo deste trabalho é analisar os padrões e tendências das práticas de produção e consumo agrícolas no Brasil; contribuindo para a compreensão dos padrões de produção e para incentivar comportamentos mais responsáveis em relação aos recursos naturais e ao meio ambiente. Especificamente, estamos focados no acompanhamento do Objetivo de Desenvolvimento Sustentável (ODS) número 12.3, buscando compreender como um dos principais componentes da cadeia de produção de alimentos está respondendo à necessidade de prevenir o desperdício e reduzir a emissão de gases do efeito estufa.
+
+Os dados necessários para a condução deste trabalho foram obtidos do Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa (SEEG), que é administrado pelo Observatório do Clima, da Produção Agrícola Municipal (PAM) e do Censo Agropecuário, ambos do Instituto Brasileiro de Geografia e Estatística (IBGE). Abaixo está uma tabela que contém a descrição das variáveis utilizadas e suas respectivas origens.
 
 ## Pré-requisitos
 
@@ -25,13 +29,13 @@ $ pip install -r requirements.txt
 
 ## Contribuidores
 
-| Nome                   | Contato |
-|------------------------|---------|
-| Felipe José da Cunha   |         |
-| Hideki Nakamura        |         |
-| Natália Françozo       |         |
-| Nícolas Pereira Cabral |         |
-| Vitor Baldoino         |         |
+| Nome                   |
+|------------------------|
+| Felipe José da Cunha   |
+| Hideki Nakamura        |
+| Natália Françozo       |
+| Nícolas Pereira Cabral |
+| Vitor Baldoino         |
 
 ## Dados
 
@@ -65,4 +69,9 @@ $ pip install -r requirements.txt
 ## Bibliografia
 
 > [Lista de bibliotecas de visualização de dados úteis.](https://aeturrell.github.io/coding-for-economists/vis-intro.html)
-> TODO: Adicionar links das tabelas usadas para montar o trabalho.
+
+> [Dados do Censo Agropecuário](https://basedosdados.org/dataset/55a39c28-58f3-4804-827d-6eee5ed27b6b?table=5366d485-e7db-4367-911a-a6a0198dda13)
+
+> [Dados da Pesquisa Agrícola Municipal (PAM)](https://basedosdados.org/dataset/fc403b40-a7e1-40e7-9efe-910847b45a69?table=bd9b2960-361f-4465-be23-baaadaaf266d)
+
+> [Dados do Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa (SEEG)](https://basedosdados.org/dataset/9a22474f-a763-4431-8e3d-667908a1c7ab?table=104c6201-b0e7-47aa-b858-83252e2b149f)
