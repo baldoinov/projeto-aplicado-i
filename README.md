@@ -1,6 +1,6 @@
 # Projeto Aplicado I - Mackenzie - 2023.02
 
-Este repositório contém o trabalho de análise exploratória de dados desenvolvido no âmbito da disciplina Projeto Aplicado I, do curso de Ciência de Dados da Universidade Presbiteriana Mackenzie. 
+Este repositório contém o trabalho de análise exploratória de dados desenvolvido no âmbito da disciplina Projeto Aplicado I, do curso de Ciência de Dados da Universidade Presbiteriana Mackenzie. O trabalho pode ser visto [neste notebook](/projeto-aplicado-i.ipynb).
 
 O objetivo deste trabalho é analisar os padrões e tendências das práticas de produção e consumo agrícolas no Brasil; contribuindo para a compreensão dos padrões de produção e para incentivar comportamentos mais responsáveis em relação aos recursos naturais e ao meio ambiente. Especificamente, estamos focados no acompanhamento do Objetivo de Desenvolvimento Sustentável (ODS) número 12.3, buscando compreender como um dos principais componentes da cadeia de produção de alimentos está respondendo à necessidade de prevenir o desperdício e reduzir a emissão de gases do efeito estufa.
 
