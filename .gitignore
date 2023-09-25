@@ -164,4 +164,5 @@ cython_debug/
 *.pdf
 *.zip
 NOTES.md
-dados/dados-base-projeto-aplicado-i.csv
+dados/base-projeto-aplicado-i.csv
+aulas/
