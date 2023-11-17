@@ -1,6 +1,8 @@
 # Projeto Aplicado I - Mackenzie - 2023.02
 
-Este repositório contém o trabalho de análise exploratória de dados desenvolvido no âmbito da disciplina Projeto Aplicado I, do curso de Ciência de Dados da Universidade Presbiteriana Mackenzie. O trabalho pode ser visto [neste notebook](/projeto-aplicado-i.ipynb).
+## Produção Sustentável no Brasil - Desafios e Oportunidades
+
+Este repositório contém o trabalho de análise exploratória de dados desenvolvido no âmbito da disciplina Projeto Aplicado I, do curso de Ciência de Dados da Universidade Presbiteriana Mackenzie. O trabalho pode ser visto [neste documento](/Produção%20Sustentável%20no%20Brasil%20-%20Desafios%20e%20Oportunidades%20-%20Relatório.pdf) e o vídeo da apresentação [aqui](https://youtu.be/5ZRszh5tCHM).
 
 O objetivo deste trabalho é analisar os padrões e tendências das práticas de produção e consumo agrícolas no Brasil; contribuindo para a compreensão dos padrões de produção e para incentivar comportamentos mais responsáveis em relação aos recursos naturais e ao meio ambiente. Especificamente, estamos focados no acompanhamento do Objetivo de Desenvolvimento Sustentável (ODS) número 12.3, buscando compreender como um dos principais componentes da cadeia de produção de alimentos está respondendo à necessidade de prevenir o desperdício e reduzir a emissão de gases do efeito estufa.
 

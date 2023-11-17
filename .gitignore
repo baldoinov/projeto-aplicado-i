@@ -161,8 +161,9 @@ cython_debug/
 
 # Extras
 
-*.pdf
 *.zip
+EMENTA_PROJETO_APLICADO_I_2023.pdf
 NOTES.md
 dados/base-projeto-aplicado-i.csv
 aulas/
+bibliografia/
